@@ -6,8 +6,8 @@
 Під час тестування функціоналу редагування профілю було виявлено, що зміни (ім'я користувача) не відображаються в інтерфейсі сайту без повного перелогіну. Дослідження показало, що причина криється в архітектурній особливості обробки JWT-токенів на бекенді.
 
 ## 📂 Структура репозиторію
-* `bug-report.md` — детальний опис багу за всіма стандартами (Steps, Actual/Expected Result, Root Cause Analysis).
-* `/assets` — папка з технічними доказами:
+* [bug-report.md](https://github.com/gifregof/Rabota.ua/blob/main/bug-report.md) — детальний опис багу за всіма стандартами (Steps, Actual/Expected Result, Root Cause Analysis).
+* [Attachments](https://drive.google.com/drive/folders/1K1wtCsi_9sxyjxKaWU8Q-wGGNPPz9rYE?usp=sharing) — папка з технічними доказами:
     * Скріншоти запитів з **Chrome DevTools**.
     * Результати тестування API через **Postman**.
     * Аналіз структури токена через **JWT.io**.
