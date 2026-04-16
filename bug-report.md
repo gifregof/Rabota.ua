@@ -14,8 +14,8 @@
 
 ## 2. Environment
 * **URL:** [https://robota.ua/](https://robota.ua/)
-* **Браузер:** Google Chrome (остання версія)
-* **Інструменти:** DevTools, Postman, JWT.io
+* **Браузер:** Google Chrome (147.0.7727.101)
+* **Інструменти:** DevTools, Postman (12.6.0), JWT.io
 
 ## 3. Steps to Reproduce
 1. Авторизуватися на сайті.
