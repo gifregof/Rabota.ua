@@ -9,12 +9,11 @@
 * [bug-report.md](https://github.com/gifregof/Rabota.ua/blob/main/bug-report.md) — детальний опис багу за всіма стандартами (Steps, Actual/Expected Result, Root Cause Analysis).
 * [Attachments](https://drive.google.com/drive/folders/1K1wtCsi_9sxyjxKaWU8Q-wGGNPPz9rYE?usp=sharing) — папка з технічними доказами:
     * Скріншоти запитів з **Chrome DevTools**.
-    * Результати тестування API через **Postman**.
     * Аналіз структури токена через **JWT.io**.
 
 ## 🛠 Інструменти, що використовувались
 * **Chrome DevTools** (Network, Application storage) — для моніторингу трафіку та стану токенів.
-* **Postman** — для ізольованого тестування PUT та GET запитів.
+* **Postman** — для ізольованого тестування PUT запита.
 * **JWT.io** — для декодування та перевірки "payload" токена.
 * **Markdown** — для оформлення технічної документації.
 
