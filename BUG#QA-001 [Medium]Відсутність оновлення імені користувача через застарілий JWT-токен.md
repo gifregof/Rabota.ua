@@ -1,5 +1,3 @@
-# Bug Report: #QA-001
-
 **Priority:** Medium  
 **Severity:** Medium  
 **Status:** Open  
