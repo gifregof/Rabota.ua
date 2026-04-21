@@ -1,11 +1,9 @@
-# Bug Report: Відсутність оновлення імені користувача через застарілий JWT-токен
-
 **ID:** #QA-001  
-**Проєкт:** robota.ua (User Account)  
-**Пріоритет:** Medium  
-**Серйозність (Severity):** Medium  
-**Статус:** Open  
-**Автор:** О. Вискребцов  
+**Project:** robota.ua (User Account)  
+**Priority:** Medium  
+**Severity:** Medium  
+**Status:** Open  
+**Author:** О. Вискребцов  
 
 ---
 
